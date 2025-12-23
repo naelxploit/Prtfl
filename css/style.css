@@ -187,11 +187,15 @@ body {
 }
 
 .icon-cert {
-    color: #9370DB;
+    color: #FF6B6B;
 }
 
 .icon-telegram {
     color: #0088cc;
+}
+
+.icon-course {
+    color: #FFD700;
 }
 
 /* Footer */
